@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MapsExercise</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="me_normal_button">N</string>
+    <string name="me_hybrid_button">H</string>
+    <string name="me_satellite_button">S</string>
+    <string name="me_terrain_button">T</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="terrain_mode">Terrain Mode</string>
+    <string name="satellite_mode">Satellite mode</string>
+    <string name="hybrid_mode">Hybrid mode</string>
+    <string name="normal_mode">Normal mode</string>
+    <string name="my_location_switch">Enable My Location</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="app_title">ThymeSaver Maps</string>
+</resources>
